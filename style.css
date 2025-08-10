@@ -1,0 +1,10 @@
+body{
+    background:linear-gradient(rgb(25, 180, 25),white,green,white,red);
+}
+img{
+    width: 900px;
+    height:400px;
+}
+p{
+    font-size: 20px;
+}
